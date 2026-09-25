@@ -4,8 +4,6 @@ An ML-powered stock trade anomaly detection dashboard built using **Python, Stre
 
 ##  Live Demo
 
-**Live App:**
-https://trade-anomaly-detective-wey3tx8kzkzdknjoczkc9h.streamlit.app/
 
 ##  Overview
 
