@@ -3,6 +3,7 @@
 An ML-powered stock trade anomaly detection dashboard built using **Python, Streamlit, Isolation Forest, Plotly, and Yahoo Finance**.
 
 ##  Live Demo
+https://aditirasal20-trade-anomaly-detective-app-b4oxlf.streamlit.app/
 
 
 ##  Overview
